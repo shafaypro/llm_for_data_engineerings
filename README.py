@@ -9,21 +9,6 @@
 
 ---
 
-## 🧭 Who This Is For
-
-You are a **data engineer** who knows:
-
-- ✅ Airflow, dbt, Snowflake / BigQuery
-- ✅ Python, SQL, AWS / GCP
-- ✅ Terraform, Spark, Kafka
-- ✅ Maybe some data science, Tableau, QuickSight
-
-But you want to add **AI agent building** to your skillset without sitting through generic LLM tutorials that assume you're a software engineer with no infra background.
-
-This repo is written **by a data engineer, for data engineers**. Every concept maps to something you already know. Every code file is self-contained, runnable, and directly applicable to real data pipelines.
-
----
-
 ## 🚀 Quick Start
 
 ```bash
